@@ -7,4 +7,4 @@
 <p>Trabalhando na Pix Force<br/></p>
 <p>Estágio DevOps/Análise de Infraestrutura de TI</p>
 
-Linguagens & Tecnologias: `Python`, `Docker`, `GPC`, `Ansible`\
+Linguagens & Tecnologias: `Python`, `Docker`, `GPC`, `Ansible`
