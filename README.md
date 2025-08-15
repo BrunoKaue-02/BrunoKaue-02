@@ -6,4 +6,5 @@
 
 <p>Trabalhando na Pix Force<br/></p>
 <p>Estágio DevOps/Análise de Infraestrutura de TI</p>
-<img src="https://img.icons8.com/?size=100&id=ZzYf4SXUhPDd&format=png&color=000000">
+
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
