@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Bruno Kauê!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoKaue-02E&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoKaue-02&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na Pix Force<br/> Atualmente estou trabalhando como estagiário de Análise de Infraestrutura de TI</p>
